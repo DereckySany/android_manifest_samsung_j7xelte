@@ -24,4 +24,4 @@ $ . build_ofox.sh j7xelte
 2019 @Astrako
 
 ## Contact
-Telegram support group: https://t.me/joinchat/D1Jk_VbieGBXOWZt2y8O7A
+Telegram support group: [offline]
